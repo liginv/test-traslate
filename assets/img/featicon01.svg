@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.102" height="32.026" viewBox="0 0 25.102 32.026">
+  <g id="files_210959" transform="translate(0.001)">
+    <g id="Group_162435" data-name="Group 162435" transform="translate(-0.001)">
+      <path id="Path_83264" data-name="Path 83264" d="M71.767,81.982H57.587a2.249,2.249,0,0,1-2.246-2.246v-24.2a2.249,2.249,0,0,1,2.246-2.246H75.036a2.249,2.249,0,0,1,2.246,2.246V76.466Zm-14.179-27a.559.559,0,0,0-.559.559v24.2a.559.559,0,0,0,.559.559h13.48l4.527-4.527V55.535a.559.559,0,0,0-.559-.559Z" transform="translate(-55.341 -49.956)" fill="#0057b6"/>
+      <path id="Path_83265" data-name="Path 83265" d="M135.558,186.478h-1.688V183H123.638v3.479H121.95V182.77a1.46,1.46,0,0,1,1.458-1.458H134.1a1.46,1.46,0,0,1,1.458,1.458v3.708Z" transform="translate(-117.784 -169.971)" fill="#0057b6"/>
+      <rect id="Rectangle_147811" data-name="Rectangle 147811" width="13.08" height="1.688" transform="translate(4.431 18.734)" fill="#0057b6"/>
+      <rect id="Rectangle_147812" data-name="Rectangle 147812" width="13.08" height="1.688" transform="translate(4.431 22.363)" fill="#0057b6"/>
+      <rect id="Rectangle_147813" data-name="Rectangle 147813" width="7.623" height="1.688" transform="translate(4.431 25.992)" fill="#0057b6"/>
+      <path id="Path_83266" data-name="Path 83266" d="M176.929,10.151a2.809,2.809,0,0,1-2.806-2.806V6.056h1.688V7.346a1.118,1.118,0,1,0,2.235,0v-3.7a1.958,1.958,0,1,0-3.916,0h-1.688a3.646,3.646,0,1,1,7.292,0v3.7A2.809,2.809,0,0,1,176.929,10.151Z" transform="translate(-165.118)" fill="#0057b6"/>
+    </g>
+    <path id="Path_83267" data-name="Path 83267" d="M318.667,66.78h-3.193a1.4,1.4,0,0,1,1.4,1.4V88.764l-5.021,5.021h3.193l5.021-5.021V68.182A1.4,1.4,0,0,0,318.667,66.78Z" transform="translate(-295.812 -62.603)" fill="#aad7f9"/>
+    <path id="Path_83268" data-name="Path 83268" d="M284.862,81.982h-5.58l6.214-6.214V55.535a.559.559,0,0,0-.559-.559V53.289h3.193a2.249,2.249,0,0,1,2.246,2.246V76.466Zm-1.5-1.688h.806l4.527-4.527V55.535a.559.559,0,0,0-.559-.559h-1.017a2.24,2.24,0,0,1,.07.559V76.466Z" transform="translate(-265.275 -49.956)" fill="#0057b6"/>
+  </g>
+</svg>
